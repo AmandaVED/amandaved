@@ -5,7 +5,7 @@
 
   <br/>
 
-<img height="195cm" src="https://github-readme-stats.vercel.app/api?username=AmandaVED&rank_icon=github&theme=radical">
+<img height="195cm" src="https://github-readme-stats.vercel.app/api?username=aalvesz&rank_icon=github&theme=radical">
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
